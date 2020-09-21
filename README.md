@@ -32,3 +32,15 @@ setsid ./phone
 
 访问:
 http://localhost:8022/search?phone=13666666666
+
+结果:
+```
+{
+"PhoneNum": "13666666666",
+"Province": "浙江",
+"City": "杭州",
+"ZipCode": "310000",
+"AreaZone": "0571",
+"CardType": "中国移动"
+}
+```
