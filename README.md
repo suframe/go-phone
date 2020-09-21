@@ -29,3 +29,6 @@ set PHONE_DATA_DIR='C:\Users\Administrator\go\src\phone'
 export PHONE_DATA_DIR='/data/shelldir/'
 setsid ./phone
 ```
+
+访问:
+http://localhost:8022/search?phone=13666666666
